@@ -1,2 +1,6 @@
 https://medium.com/iotforall/build-your-first-custom-alexa-skill-in-10-minutes-2d27485727ed
-https://github.com/acucciniello/hacker-news-skill/blob/master/get-top-news.js
+(become familiar with alexa-app package)
+
+https://github.com/acucciniello/hacker-news-skill/blob/master/get-top-news.js(code to download a file)
+
+https://www.npmjs.com/package/alexa-app(all functions present in alexa-app)
