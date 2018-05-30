@@ -1,3 +1,8 @@
+(install nodejs using the following commands)
+sudo apt-get update
+sudo apt-get install nodejs
+sudo apt-get install npm
+
 https://medium.com/iotforall/build-your-first-custom-alexa-skill-in-10-minutes-2d27485727ed
 (become familiar with alexa-app package)
 
