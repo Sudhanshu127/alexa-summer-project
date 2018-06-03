@@ -117,3 +117,7 @@ final ProgressDialog loading = ProgressDialog.show(SettingsActivity.this,"Upload
 
                     //Adding request to the queue
                     requestQueue.add(stringRequest);
+
+
+here is a small backup if that doesnt work
+http://blog.hackerkernel.com/2015/11/30/android-upload-image-to-server/
