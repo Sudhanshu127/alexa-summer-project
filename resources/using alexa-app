@@ -15,4 +15,5 @@ https://www.youtube.com/watch?v=d12DhlFVERc
 https://www.youtube.com/watch?v=5zsKViLKhi0
 https://www.youtube.com/watch?v=4Jdo85l1OI8
 
-Adding angularjs
+use this command in console to list all urls in the website
+urls = $$('a'); for (url in urls) console.log ( urls[url].href ); 
